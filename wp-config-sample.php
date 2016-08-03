@@ -14,7 +14,6 @@
  * @package WordPress
  */
    define('WP_REDIS_HOST', 'wordpress.dbuclp.0001.aps1.cache.amazonaws.com');
-
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'wordpress');
