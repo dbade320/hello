@@ -40,4 +40,6 @@ After Wordpress Is Configured
 -----------------------------
 ```
 define('WP_REDIS_HOST', '');
+
+https://github.com/andrewpuch/wordpress_4_1_1_chef
 ```
