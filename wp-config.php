@@ -14,6 +14,8 @@
  * @package WordPress
  */
 
+   define('WP_HOME','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
+  define('WP_SITEURL','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'wordpress');
