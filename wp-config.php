@@ -14,8 +14,8 @@
  * @package WordPress
  */
 
-   define('WP_HOME','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
-  define('WP_SITEURL','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
+   define('WP_HOME','https://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
+  define('WP_SITEURL','https://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'wordpress');
@@ -44,14 +44,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '1MJ9g!ZBZ9(!A@TwL!- ^|V/<wvc]Np#B`h=QT#msSS.yg=K =n|NEDUp#Ze#Qi0');
-define('SECURE_AUTH_KEY',  's`rKr}JR;YQ;bj] AK<C^IPV]lM+>O,c+%b4{gPt~X7%BJ,(4B(KQ)SaS<-v1Aty');
-define('LOGGED_IN_KEY',    'ucqhk8Utic(Vbp9ii/2@w*-$H(]8xN`%aI9MeqF9@)*C>$aq#LkMcl#rz^n;ZuR.');
-define('NONCE_KEY',        '%+ykI(>Ku_qR8C]{dqaA~M:%;4C`PT[i~/u(5---l*ef787TF0{>lpE]z40kzE_9');
-define('AUTH_SALT',        'vyfe{oG $QUK`?[&X|n`1 `Vvz5)67S#<YOM&aA^T0^4/LKZK_T=ETp*Bu.[[_6/');
-define('SECURE_AUTH_SALT', '=]LHXA.G_g(49VQ2$UqcGo%YZf,FqmtiSVN&?e?1Z]{cxfnVU`~nWIvRf0)0t_P|');
-define('LOGGED_IN_SALT',   '{Dx0PJP%4V-f//*h@!9w O}* =?hb%f-Gdv|Vg@`@,nDp*~C2z(24^%dnM&86%m`');
-define('NONCE_SALT',       ' -oE6nRnl>nPKU pQbM5!AfSoF R5h#TtDgFDqI5#V;;@2~EfnTLX@%ldu$u#,@$');
+define('AUTH_KEY',         'put your unique phrase here');
+define('SECURE_AUTH_KEY',  'put your unique phrase here');
+define('LOGGED_IN_KEY',    'put your unique phrase here');
+define('NONCE_KEY',        'put your unique phrase here');
+define('AUTH_SALT',        'put your unique phrase here');
+define('SECURE_AUTH_SALT', 'put your unique phrase here');
+define('LOGGED_IN_SALT',   'put your unique phrase here');
+define('NONCE_SALT',       'put your unique phrase here');
 
 /**#@-*/
 
