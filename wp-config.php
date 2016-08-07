@@ -13,7 +13,7 @@
  *
  * @package WordPress
  */
-
+define('WP_REDIS_HOST', 'wordpress.dbuclp.0001.aps1.cache.amazonaws.com');
   define('FS_METHOD', 'direct');
 
 // ** MySQL settings - You can get this info from your web host ** //
