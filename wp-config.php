@@ -13,12 +13,9 @@
  *
  * @package WordPress
  */
- 
- 
 define('WP_REDIS_HOST', 'wordpress.dbuclp.0001.aps1.cache.amazonaws.com');
-/** for DashBoard on this */
-//define('WP_HOME','http://d3fmakqc24ht3e.cloudfront.net');
 
+define('WP_HOME','http://d3fmakqc24ht3e.cloudfront.net');
 /** For site on this */
 define('WP_SITEURL','http://d3fmakqc24ht3e.cloudfront.net'); 
  
