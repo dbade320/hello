@@ -17,8 +17,8 @@
  
 define('WP_REDIS_HOST', 'wordpress.dbuclp.0001.aps1.cache.amazonaws.com');
 
- define('WP_HOME','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
-define('WP_SITEURL','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com');
+ define('WP_HOME','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com/wp-admin');
+define('WP_SITEURL','http://wordpress-1634645544.ap-south-1.elb.amazonaws.com/hello');
  
   define('FS_METHOD', 'direct');
 
